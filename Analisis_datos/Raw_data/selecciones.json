@@ -1,0 +1,17 @@
+{
+    "rutas_seleccionadas": [
+        68,
+        203,
+        116,
+        455
+    ],
+    "flota_vehiculos": {
+        "68": 18,
+        "203": 6,
+        "116": 7,
+        "455": 4
+    },
+    "servicios_seleccionados": [
+        "LA"
+    ]
+}
