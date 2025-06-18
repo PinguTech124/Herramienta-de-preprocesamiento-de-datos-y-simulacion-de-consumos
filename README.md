@@ -3,6 +3,7 @@
 📂 Estructura de Carpetas
 
 Analisis_datos
+
     Analisis_datos         # <-- Coloca aquí tus archivos GTFS (.txt)
     Processed_data         # <-- Los scripts guardarán aquí datos procesados
     results                # <-- Los scripts guardarán aquí resultados finales
